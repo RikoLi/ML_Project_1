@@ -11,3 +11,5 @@ libsvm-3.23是libsvm最新版本，放在根目录下，请勿移动位置。
 func.py定义了程序用到的函数。
 
 main.py为主程序。
+
+.vscode是使用vscode进行调试的配置文件，不用理会。
