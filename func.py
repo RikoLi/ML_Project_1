@@ -1,5 +1,6 @@
 import os
 import math
+
 # Data converter
 '''将数据转化成libsvm使用的格式'''
 def dataConvert(file):
